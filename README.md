@@ -10,9 +10,6 @@ This project is aimed at using git commands to post the Bike share project to Gi
 Files used in the project are
 - bikeshare_2.py
 - README.md
-- chicago.csv
-- new_york_city.csv
-- washington.csv
 
 ### Credits
 Bellow are links that helped me during this project.
@@ -21,4 +18,5 @@ Bellow are links that helped me during this project.
 3. https://confluence.atlassian.com/bitbucket/branching-a-repository-223217999.html
 4. https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
 5. https://www.atlassian.com/git/tutorials/using-branches
+6. https://coursework.vschool.io/create-a-gitignore/
 
