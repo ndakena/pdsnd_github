@@ -10,7 +10,6 @@ This project is aimed at using git commands to post the Bike share project to Gi
 Files used in the project are
 - bikeshare_2.py
 - README.md
-
 ### Credits
 Bellow are links that helped me during this project.
 1. https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches
