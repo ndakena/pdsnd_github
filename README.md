@@ -2,7 +2,7 @@
 23/03/2020  
 
 ### Project Title
-Post your work on GitHub
+Posting my bikeshare project on GitHub
 
 ### Description
 This project is aimed at using git commands to post the Bike share project to GitHub.
@@ -18,4 +18,4 @@ Bellow are links that helped me during this project.
 4. https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
 5. https://www.atlassian.com/git/tutorials/using-branches
 6. https://coursework.vschool.io/create-a-gitignore/
-
+7. https://udacity.github.io/git-styleguide/
