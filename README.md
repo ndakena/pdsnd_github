@@ -2,7 +2,7 @@
 23/03/2020  
 
 ### Project Title
-Post your work on GitHub
+Posting my bikeshare project on GitHub
 
 ### Description
 This project is aimed at using git commands to post the Bike share project to GitHub.
